@@ -1,4 +1,4 @@
-## :hammer_and_wrench: Stram api와 Lambda 표현식을 통한 기존 재능기부 프로젝트의 코드 리펙토링
+## :hammer_and_wrench: Stram api와 Lambda 표현식을 통한 코드 리펙토링
 
 팀원 : 박현서, 곽병찬
 기간 : 2024.07.24 ~ 2024.07.24
